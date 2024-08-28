@@ -1,0 +1,28 @@
+.main{
+  display: flex;
+  justify-content: center;
+}
+.box {
+  border: 5px solid black;
+  max-width: 400px;
+  margin: 10px;
+  text-align: center;
+}
+.item-img {
+  width: 100%;
+  max-height: 300px;
+}
+button {
+  padding: 10px;
+  margin: 10px;
+}
+.win {
+  border: 5px solid green;
+  background-color: greenyellow;
+}
+.lose {
+  border: 5px solid palevioletred;
+}
+.tie {
+  border: 5px solid black;
+}
